@@ -1,0 +1,19 @@
+{
+  "name": "jogo_da_velha",
+  "version": "1.0.0",
+  "description": "Api de um jogo da velha",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongodb": "^3.4.0",
+    "uniqid": "^5.2.0"
+  }
+}
